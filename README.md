@@ -1,6 +1,6 @@
 # 🎓 **Amal Jyothi College of Engineering**
 <picture>
-  <img src="https://raw.githubusercontent.com/AJCE-CSB-2029/profile/refs/heads/main/Amal%20Jyothi.jpg">
+  <img src="https://raw.githubusercontent.com/AJCE-CSB-2029/AJCE-CSB-2029/refs/heads/main/Amal_Jyothi.jpg">
 </picture>
 
 ## 💻 **Department of Computer Science & Engineering**
