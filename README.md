@@ -21,16 +21,10 @@ This space is dedicated to hosting all our **projects, lab experiments, notes, a
 
 ---
 
-## 🚀 **Our Mission**
-
-To build a collaborative and productive coding environment where everyone in **CSE-B 2029** can learn, contribute, and grow together.
-
----
-
 ## 👥 **Maintainers**
 
 * 🧑‍💼 Class Representatives
-* 🧑‍💻 Technical Maintainers (Github admins)
+* 🧑‍💻 GitHub Admins
 
 ---
 
