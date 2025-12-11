@@ -12,6 +12,19 @@ This space is dedicated to hosting all our **projects, lab experiments, notes, a
 
 ---
 
+## 📁 **Semester Repositories**
+
+- 📘 [Semester 1](https://github.com/AJCE-CSB-2029/Semester-1)
+- 📙 Semester 2 (coming soon)
+- 📗 Semester 3 (coming soon)
+- 📕 Semester 4 (coming soon)
+- 📘 Semester 5 (coming soon)
+- 📙 Semester 6 (coming soon)
+- 📗 Semester 7 (coming soon)
+- 📕 Semester 8 (coming soon)
+
+---
+
 ## 📁 **What You’ll Find Here**
 
 * 🔹 Semester-wise lab experiment repositories
