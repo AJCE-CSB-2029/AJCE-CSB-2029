@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/AJCE-CSB-2029/AJCE-CSB-2029/refs/heads/main/Amal_Jyothi.jpg">
 </picture>
 
-Welcome to the official GitHub organization of **CSE-B 2029**!
+Welcome to the official GitHub page of **CSE-B 2029**!
 This space is dedicated to hosting all our **projects, lab experiments, notes, and collaborative code** throughout our B.Tech journey.
 
 ---
