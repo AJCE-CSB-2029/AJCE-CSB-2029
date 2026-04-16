@@ -12,7 +12,7 @@ This space is dedicated to hosting all our **projects, lab experiments, notes, a
 ## 📁 **Semester Repositories**
 
 * 📘 **[Semester 1](https://github.com/AJCE-CSB-2029/Semester-1)**
-* 📙 **Semester 2 (coming soon)**
+* 📙 **[Semester 2](https://github.com/AJCE-CSB-2029/Semester-2)**
 * 📗 **Semester 3 (coming soon)**
 * 📕 **Semester 4 (coming soon)**
 * 📘 **Semester 5 (coming soon)**
